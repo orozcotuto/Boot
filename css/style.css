@@ -1,5 +1,19 @@
-.bg-header{background-color:dimgray;}
-.bg-footer{background-color: coral;}
-.bg-main{background-color: aqua;}
-.logos{width: 30px; height: 30px;}
-.nosub{text-decoration: none;}
+.logos {
+  width: 30px;
+  height: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: dimgrey;
+}
+
+.bg-main {
+  background-color: aqua;
+}
+
+.bg-footer {
+  background-color: coral;
+}
+
+/*# sourceMappingURL=style.css.map */
